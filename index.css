@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border-bottom: solid black 1px;
+    background-color: #FF0000;
+}
+main { 
+    background-color: #FFF500;
+}
+footer {
+    border-bottom: #FF0000;
+    background-color: #FF0000;
+}
